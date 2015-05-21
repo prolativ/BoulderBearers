@@ -1,4 +1,4 @@
-# BoulderBearers
+# Boulder Bearers
 A simple board game of own invention
 
 -----
