@@ -2,6 +2,7 @@
 A simple board game of own invention
 
 -----
+## Rules:
 
 'Boulder Bearers' is a turn based board game.
 
