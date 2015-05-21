@@ -24,4 +24,4 @@ Players taking turns one after another have to make a move obeying the following
 * A single strongman can change the position of a light piece (i.e. a boulder or a guardian) by CARRYING it (moving onto its present position and placing it on an adjascent empty field) - it's treated as one move.
 * If a strongman carries a light piece in the direction it is itself moving, we call it PUSHING.
 * If a guardian stands next to a boulder of the same color, the boulder is protected and cannot be MOVED or PUSHED by an opponent's strongman.
-* A strongman can PUSH an opponent's boulder into an empty trap. The boulder cannot be MOVED or PUSHED anymore
+* A strongman can PUSH an opponent's boulder into an empty trap. The boulder cannot be MOVED or PUSHED anymore.
