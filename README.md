@@ -11,9 +11,9 @@ Each player has 3 types of pieces:
 * guardians (diamond shaped)
 
 There are also 3 kinds of fields:
-* empty fields
-* traps
-* fields out of the board
+* empty fields (white)
+* traps (crossed)
+* fields out of the board (black)
 
 A player loses when all his/her boulders are put in traps. The aim of the game, depending on the mode chosen, is to be either the one who survives when all other players have lost or the first one to make another player lose.
 
